@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.https": {
+        "enable": true, //set it true to enable the feature.
+        "cert": "C:\\Users\\fe_de\\Documents\\Universidad\\Proyectos\\Página de Proyectos\\.vscode\\server.crt", //full path of the certificate
+        "key": "C:\\Users\\fe_de\\Documents\\Universidad\\Proyectos\\Página de Proyectos\\.vscode\\server.key", //full path of the private key
+        "passphrase": "pass"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "museoAR"
+}
