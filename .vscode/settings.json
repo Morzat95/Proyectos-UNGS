@@ -5,5 +5,6 @@
         "key": "C:\\Users\\fe_de\\Documents\\Universidad\\Proyectos\\Página de Proyectos\\.vscode\\server.key", //full path of the private key
         "passphrase": "pass"
     },
-    "liveServer.settings.multiRootWorkspaceName": "museoAR"
+    "liveServer.settings.multiRootWorkspaceName": "museoAR",
+    "liveServer.settings.port": 5501
 }
